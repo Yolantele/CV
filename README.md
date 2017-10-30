@@ -3,13 +3,14 @@
 I am an aspiring full stack Ruby developer currently undergoing training at Makers Academy, London.  
 I’m striving to learn the best coding and development practices to produce sustainable, adaptable code and programs.
 
-Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs within the tightly knit team, delivering to high-expectations. Some if the global programs I had the opportunity to work on, had been reported to had exceeded the performance expectations.  While I consider myself fortunate to share these points, I do attribute any of the past successes to the correct working practices and ethics and a level of focused commitment and enthusiasm, all of which will hopefully continue to bring the good fortune in the future.
+Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs within the tightly knit team, delivering to high expectations. Some of the global programs I had the opportunity to work on, had been reported to exceed the program performance expectations.  While I consider myself fortunate to share these points, I do attribute any of the past successes to the work ethics, a level of focused commitment and enthusiasm; all of which will hopefully continue to bring the good fortune in the future.
 
 I am looking for the opportunity to use the programming skills and continue the practice of good design in the environment that aligns with these values.
 
 
 
 ## Skills
+
 
 
 #### Creative Problem-solving
