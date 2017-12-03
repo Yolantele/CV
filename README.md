@@ -1,11 +1,11 @@
 ## Jolanta Jas
 
-I am an aspiring full stack Ruby developer currently undergoing training at Makers Academy, London.  
-I’m striving to learn the best coding and development practices to produce sustainable, adaptable code and programs.
+I am currently undergoing training at Makers Academy, London.  I’m striving to learn the best coding and development practices to produce sustainable, adaptable code and programs.
 
-Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs within the tightly knit team, delivering to high expectations. Some of the global programs I had the opportunity to work on, had been reported to exceed the program performance expectations.  While I consider myself fortunate to share these points, I do attribute any of the past successes to the work ethics, a level of focused commitment and enthusiasm; all of which will hopefully continue to bring the good fortune in the future.
+Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs within the tightly knit team, delivering to high-expectations. I had the opportunity to work on and lead programs that reported  back to had exceeded the expectations.  I  attribute any of the successes to the correct working practices, a level of focused commitment and enthusiasm, all of which will hopefully continue to bring the good fortune in the future.
 
 I am looking for the opportunity to use the programming skills and continue the practice of good design in the environment that aligns with these values.
+
 
 
 
@@ -22,10 +22,8 @@ I continue on growing this skill since the early days at young physicists school
 
 ####  Sound Communication
 
-English is my second language, it taught me the value of learning a language well and more importantly,  the value of sound communication in the context of both the team-work and project execution.
-An example inside the context of project execution , communication skills  translated in the form of sound design: product and presentations had to communicate the promise of the program to clients and licensors,  in the clearest possible manner as well be understood very Cleary by the manufacturers in far East: for the successful execution of multi-million product quantities.
-An example inside the context of team-work, was guiding a junior with anxiety disorder. It placed huge reliance on my communication skills :  effective, considered and informed, I had to  guide her to stay productive without triggering any anxiety attacks, she occasionally suffered from at work. In the end her most proud work was produced on the 2 McDonald’s Premiums programs we worked on together .
-I hope to translate this skill into developing eloquent, well designed code, programs and future projects.
+English is my second language, learning it taught me the value of sound communication. In the context of projects I value readability and clarity as it often has to be understood by many people ivolved.  An example of sound communication in team-work, would be me having to guide a junior with anxiety disorder. While effectively, consideratly , I had to  guide her to stay productive without triggering any anxiety attacks, she occasionally suffered from at work. In the end her most proud work was produced on the 2 McDonald’s Premiums programs we worked on together .
+I hope to translate this skill into developer role by eloquent, well designed code and programs.
 
 
 #### Positive Attitude (:]
@@ -70,10 +68,6 @@ Jasmine
 
 - 1st Class BA (Hons) Degree
 - Part Time student ambassador
-
-Adobe Illustrator,
-Adobe Photoshop,
-Autodesk Maya,
 
 
 #### “Aukuras” Gymnasium
