@@ -2,8 +2,8 @@
 
 I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs.
 Please find projects I was most recently involved in most:
-Foodeals app - https://github.com/Yolantele/foodie
-Database agnostic Visualiser app - https://github.com/Yolantele/Database-visualization
+- Foodeals app - https://github.com/Yolantele/foodie
+- Database agnostic Visualiser app - https://github.com/Yolantele/Database-visualization
 
 Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs within the tightly knit team, delivering to high-expectations. Some of the global programs I had the opportunity to work on, had been reported to exceed the performance expectations.  While I consider myself fortunate to share these points, I do attribute any of the past successes to my working practices, a level of focused commitment and enthusiasm.
 
