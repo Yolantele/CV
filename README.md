@@ -48,7 +48,7 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 ## Professional Experience
 
 
-#### Product Designer, The Marketing Store,  2012 - 2017
+#### Product Designer, The Marketing Store Worldwide,  2012 - 2017
 
 - Taking the design lead on several programs at any given time from brief to production
 - Developing product through concept, design and prototype development statges
@@ -56,9 +56,14 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 - Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
 - Meeting with and presenting to clients and licensors. 
 
+
 Software: 
-- 2D: Photoshop, Illustrator
-- 3D: 3Ds Max, Maya, Solidworks
+
+- 2D
+Photoshop, Illustrator
+
+- 3D 
+3Ds Max, Maya, Solidworks
 
 
 
@@ -76,6 +81,7 @@ Software:
 1. Concepts: Object-oriented programming, Test-driven development
 2. Tech-stack: JavaScript, Node.js, React.js, Ruby, Rails,  HTML, CSS, MongoDB, postgress SQL
 3. Testing: RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
+
 
 #### Computer Graphics and Animation: UCA, 2009 - 2012
 
@@ -95,9 +101,13 @@ Software:
 
 ## Hobbies
 
-- Long distance hiking. My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
+- Long distance hiking. 
+My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
+
 - Practicing and Instructing Vinyasa Yoga Classes
-- BUJO - Analog Bullet Journaling,  I love Mind-mapping!
+
+- BUJO - Analog Bullet Journaling
+I love Mind-mapping!
 
 
 
