@@ -11,7 +11,9 @@ I am in a continuous process of learning the best coding and development practic
 Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
 
 
+
 ---
+
 
 
 ## Skills
@@ -32,7 +34,11 @@ An example inside the context of team-work, would be the time I mentored a junio
 
 I find that a healthy amount of enthusiasm and joy has only served me thus far in maintaining high quality productivity. In addition to that, I see a considerable amount of value in practicing mindfulness and stress-relief techniques as tools to aid my high-performance goals. I attribute some successes to this,  such as completing olympic-distance Triathlon and also becoming a junior developer at Makers Academy :]
 
+
+
 ---
+
+
 
 ## Professional Experience
 
@@ -45,10 +51,14 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 - Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
 - Meeting with and presenting to clients and licensors. 
 
-Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
+Software: 
+2D: Photoshop, Illustrator
+3D: 3Ds Max, Maya, Solidworks
+
 
 
 ---
+
 
 
 ## Education
@@ -77,7 +87,10 @@ Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 - Cum Laude Diploma, Physics school “Photon”
 
 
+
 ---
+
+
 
 ## Hobbies
 
