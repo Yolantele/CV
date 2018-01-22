@@ -1,13 +1,14 @@
 ## Jolanta Jas
 
 I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs.
-Please find projects I was most recently involved in most:
+Please find projects I was involved in most recently :
 - Foodeals app - https://github.com/Yolantele/foodie
+- AirBnB clone - https://github.com/Yolantele/MakersBnB
 - Database agnostic Visualiser app - https://github.com/Yolantele/Database-visualization
 
-Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs within the tightly knit team, delivering to high-expectations. Some of the global programs I had the opportunity to work on, had been reported to exceed the performance expectations.  While I consider myself fortunate to share these points, I do attribute any of the past successes to my working practices, a level of focused commitment and enthusiasm.
+Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. The challenge was to bring a design solution that would satisfy tight cost per unit, mass-production manufacturing limitations, extensive safety regulation limitations and high-performing concept execution. I attribute any of the past successes to my working practices, a level of focused commitment and enthusiasm.
 
-I am looking for the opportunity to use the programming skills and continue the practice of good design in the environment that aligns with these values
+I look forward to joining a team where I could continue learning and practice good craftsmanship.
 
 
 
@@ -16,20 +17,18 @@ I am looking for the opportunity to use the programming skills and continue the 
 
 #### Creative Problem-solving
 
-I believe a problem at hand can be an opportunity for creative solution that adds adds to the value of product.
-In the past, I relied on these skills for developing product prototypes that meet tight safety regulations, low-costs, restricted manufacturing methods and promotional product time constrains.  I continue on growing this skill since the early days at young physicists school where the foundations for approaching seemingly large problem in small bites.
+I enjoy problem-solving and see it as a creative process. In the past, I relied on these skills for developing product prototypes that had to satisfy many constraints: extensive safety regulations, low-cost per unit, restricted manufacturing methods and tight deadlines.  I started developing this skill since the early days at young physicists school,  where I learned the value of pproaching large problems in small-size steps.
 
 
 ####  Sound Communication
 
-I place huge value on good quality communication in which ever context it appears: coding or collaborating.
-An example inside the context of team-work, would be mentoring a junior product designer with anxiety disorder. It placed huge reliance on my communication skills. I had to be clear yet considerate of triggering anxiety attacks, that she occasionally suffered from at work. In the end her most proud work was produced on the two McDonald’s Happy Meal programs we worked on together under my lead.I hope to translate this skill into developing eloquent, well designed code, programs and future projects.
+I place huge value on good quality communication in whichever context it appears: coding or collaborating with colleagues.
+An example inside the context of team-work, would be the time I had to mentor a junior product designer with anxiety disorder. It placed huge reliance on my communication skills. I had to be clear yet considerate of triggering anxiety attacks, that she occasionally experienced at work. In the end her most proud work was produced on the two McDonald’s Happy Meal programs we worked on together under my lead. I hope to continue to bring high-value with this skill.
 
 
 #### High-performance Attitude
 
-I find that a healthy amount of enthusiasm and joy has only served me thus far in maintaining high quality productivity. In addition to that, I see a considerable amount of value in practicing mindfulness and stress-relief techniques as tools to aid my high-performance goals such as completing olympic distance Triathlon or becoming a full-stack web developer through Makers Academy.
-
+I find that a healthy amount of enthusiasm and joy has only served me thus far in maintaining high quality productivity. In addition to that, I see a considerable amount of value in practicing mindfulness and stress-relief techniques as tools to aid my high-performance goals. I attribute some successes to this,  such as completing olympic-distance Triathlon and also becoming a junior developer at Makers Academy :]
 
 
 
@@ -38,11 +37,13 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 #### Product Designer, The Marketing Store,  2012 - 2017
 
-- Taking the design lead on several programs at any given time from brief to production for clients such as McDonalds's, Carlsberg, Nestle
+- Taking the design lead on several programs at any given time from brief to production
+- Developing product through concept, design and prototype development statges
 - Liaising with engineers, Q&A teams and client services to incorporating feedback into the products
-- Meeting with, presenting and designing to licensor and client requirements
-- Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
+- Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
+- Meeting with and presenting to clients and licensors. 
 
+Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 
 
 
@@ -56,10 +57,12 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 - Fast learner on the intensive development boot-camp
 - Always keen to work well in both Pair-programming and group projects
 
-OOP, TDD, MVC, DDD
-Agile/XP
+OOP, TDD, MVC
+
 Ruby, Rails, RSpec
+
 SQL DB, MongoDB
+
 Node JS with React, Jasmine
 
 
@@ -79,6 +82,6 @@ Node JS with React, Jasmine
 
 ## Hobbies
 
-- Long distance hiking. My last adventure was North Spain walk - Camino de Santiago.   
+- Long distance hiking. My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
 - Practicing and Instructing Vinyasa Yoga Classes
 - BUJO - Analog Bullet Journaling
