@@ -11,8 +11,6 @@ I am in a continuous process of learning the best coding and development practic
 Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
 
 
-***
-
 
 
 ## Skills
@@ -35,10 +33,6 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 
 
-***
-
-
-
 
 ## Professional Experience
 
@@ -54,10 +48,6 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 Software: 
 2D: Photoshop, Illustrator
 3D: 3Ds Max, Maya, Solidworks
-
-
-
-___
 
 
 
@@ -81,15 +71,11 @@ ___
 - Student representative
 
 
-#### “Aukuras” Gymnasium
+#### “Aukuras” Gymnasium, 2009 - 1997
 
 - 3 A's in Physics, Mathematics, and English
 - 96% rate in national Physics Exam
 - Cum Laude Diploma, Physics school “Photon”
-
-
-
-___
 
 
 
