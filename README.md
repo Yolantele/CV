@@ -11,6 +11,8 @@ I am in a continuous process of learning the best coding and development practic
 Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
 
 
+---
+
 
 ## Skills
 
@@ -30,7 +32,7 @@ An example inside the context of team-work, would be the time I mentored a junio
 
 I find that a healthy amount of enthusiasm and joy has only served me thus far in maintaining high quality productivity. In addition to that, I see a considerable amount of value in practicing mindfulness and stress-relief techniques as tools to aid my high-performance goals. I attribute some successes to this,  such as completing olympic-distance Triathlon and also becoming a junior developer at Makers Academy :]
 
-
+---
 
 ## Professional Experience
 
@@ -46,9 +48,10 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 
 
+---
+
 
 ## Education
-
 
 
 #### Software Developer Bootcamp: Makers Academy, 2017 - 2018
@@ -57,9 +60,9 @@ Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 - Fast learner on the intensive development boot-camp program
 - Always keen to work well in both Pair-programming and group projects or independently.
 
-Object-oriented programming, Test-driven development
-JavaScript, Node.js, React.js, Ruby, Rails,  HTML, CSS, MongoDB, postgress SQL
-RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
+1. Concepts: Object-oriented programming, Test-driven development
+2. Tech-stack: JavaScript, Node.js, React.js, Ruby, Rails,  HTML, CSS, MongoDB, postgress SQL
+3. Testing: RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
 
 #### Computer Graphics and Animation: UCA, 2009 - 2012
 
@@ -73,6 +76,8 @@ RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
 - 96% rate in national Physics Exam
 - Cum Laude Diploma, Physics school “Photon”
 
+
+---
 
 ## Hobbies
 
