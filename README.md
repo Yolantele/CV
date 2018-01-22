@@ -33,7 +33,7 @@ I enjoy problem-solving and see it as a creative process. In the past, I relied 
 
 ####  Sound Communication
 
-I place huge value on good quality communication in whichever context it appears: coding or collaborating with colleagues.
+I value and strive to bring good quality communication in whichever context it appears: coding or team-work.
 An example inside the context of team-work, would be the time I mentored a junior product designer with anxiety disorder. It placed huge reliance on my communication skills: I had to be clear yet considerate of triggering anxiety attacks, that she occasionally experienced at work. In the end her most proud work was produced on the two McDonald’s Happy Meal programs we worked on together under my lead. I hope to continue to bring high-value with this skill.
 
 
