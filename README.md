@@ -12,7 +12,7 @@ Prior to Makers Academy I had 5 years of experience within product design (non-d
 
 
 
----
+___
 
 
 
@@ -36,7 +36,8 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 
 
----
+___
+
 
 
 
@@ -57,7 +58,8 @@ Software:
 
 
 
----
+___
+
 
 
 
@@ -88,7 +90,8 @@ Software:
 
 
 
----
+___
+
 
 
 
