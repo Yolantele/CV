@@ -1,19 +1,24 @@
 # Jolanta Jas
 
+
 |[Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies) |
 |:----------------:|:---------------------------------------------------:|:-----------------------:|:-------------------:|
 
 
+
 I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find development projects I was involved in most recently:
+
 
 [fooDeals app](https://github.com/Yolantele/foodie) 
 
+
 [Database agnostic Visualiser app](https://github.com/Yolantele/Database-visualization)
+
 
 [AirBnB clone](https://github.com/Yolantele/MakersBnB)
 
-Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
 
+Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
 
 
 
