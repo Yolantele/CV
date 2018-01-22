@@ -55,15 +55,9 @@ Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 - Fast learner on the intensive development boot-camp program
 - Always keen to work well in both Pair-programming and group projects or independently.
 
-OOP, TDD, MVC
-
-Ruby, Rails, RSpec
-
-SQL DB, MongoDB
-
-Node JS with React, Jasmine
-
-
+Principles: Object-oriented programming, Test-driven development
+Tech Stack: JavaScript, Node.js, React.js, Ruby, Rails,  HTML, CSS, MongoDB, postgress SQL
+Testing: RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
 
 #### Computer Graphics and Animation: UCA, 2009 - 2012
 
@@ -74,7 +68,7 @@ Node JS with React, Jasmine
 #### “Aukuras” Gymnasium
 
 - 3 A's in Physics, Mathematics, and English
-- 96% in State’s Physics Exam
+- 96% rate in national Physics Exam
 - Cum Laude Diploma, Physics school “Photon”
 
 
