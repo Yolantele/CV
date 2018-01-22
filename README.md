@@ -11,8 +11,7 @@ I am in a continuous process of learning the best coding and development practic
 Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
 
 
-
-___
+***
 
 
 
@@ -36,7 +35,7 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 
 
-___
+***
 
 
 
