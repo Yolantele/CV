@@ -17,7 +17,7 @@ Prior to Makers Academy I had 5 years of experience within product design (non-d
 
 #### Creative Problem-solving
 
-I enjoy problem-solving and see it as a creative process. In the past, I relied on these skills for developing promotional products that had to satisfy many constraints: extensive safety regulations, low-cost per unit, restricted manufacturing methods and tight deadlines.  I started developing problem-solving techniques since the early days at young physicists school,  where I learned the value of approaching large problems in small-sized steps.
+I enjoy problem-solving and see it as a creative process. In the past, I relied on these skills for developing promotional products that had to satisfy many constraints: extensive safety regulations, low-cost per unit, restricted mass-manufacturing methods, tight deadlines among having to drive sales-boosts for Mcdonald's Worldwide.  I started developing problem-solving techniques since the early days at young physicists school,  where I learned the value of approaching large problems in small-sized steps.
 
 
 ####  Sound Communication
