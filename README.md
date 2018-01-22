@@ -48,8 +48,8 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 - Meeting with and presenting to clients and licensors. 
 
 Software: 
-2D: Photoshop, Illustrator
-3D: 3Ds Max, Maya, Solidworks
+- 2D: Photoshop, Illustrator
+- 3D: 3Ds Max, Maya, Solidworks
 
 
 
