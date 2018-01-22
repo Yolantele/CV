@@ -94,5 +94,7 @@ Software:
 - Practicing and Instructing Vinyasa Yoga Classes
 - BUJO - Analog Bullet Journaling,  I love Mind-mapping!
 
+
+
 |[Back to top](#jolanta-jas) |
 |:--------------------------:|
