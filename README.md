@@ -59,11 +59,11 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 Software: 
 
-- 2D
-Photoshop, Illustrator
+2D
+- Photoshop, Illustrator
 
-- 3D 
-3Ds Max, Maya, Solidworks
+3D 
+- 3Ds Max, Maya, Solidworks
 
 
 
