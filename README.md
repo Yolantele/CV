@@ -108,7 +108,7 @@ My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 da
 
 - BUJO - Analog Bullet Journaling, I love mind-mapping!
 
-- Blogging, the fairly newbie - [dev-blog](https://medium.com/@klpdjolanta) and a oldie - [product design blog](http://jolantasketch.blogspot.co.uk/)
+- Blogging, the fairly newbie - [dev-blog](https://medium.com/@klpdjolanta) and an oldie - [product design blog](http://jolantasketch.blogspot.co.uk/)
 
 |[Back to top](#jolanta-jas) |
 |:--------------------------:|
