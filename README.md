@@ -57,9 +57,9 @@ Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 - Fast learner on the intensive development boot-camp program
 - Always keen to work well in both Pair-programming and group projects or independently.
 
-Principles: Object-oriented programming, Test-driven development
-Tech Stack: JavaScript, Node.js, React.js, Ruby, Rails,  HTML, CSS, MongoDB, postgress SQL
-Testing: RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
+Object-oriented programming, Test-driven development
+JavaScript, Node.js, React.js, Ruby, Rails,  HTML, CSS, MongoDB, postgress SQL
+RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
 
 #### Computer Graphics and Animation: UCA, 2009 - 2012
 
