@@ -2,7 +2,7 @@
 
 I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find development projects I was involved in most recently:
 
-[Foodeals app](https://github.com/Yolantele/foodie) 
+[fooDeals app](https://github.com/Yolantele/foodie) 
 
 [Database agnostic Visualiser app](https://github.com/Yolantele/Database-visualization)
 
