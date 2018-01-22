@@ -13,6 +13,7 @@ Prior to Makers Academy I had 5 years of experience within product design (non-d
 
 
 
+
 ## Skills
 
 
@@ -34,6 +35,7 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 
 
+
 ## Professional Experience
 
 
@@ -48,6 +50,7 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 Software: 
 2D: Photoshop, Illustrator
 3D: 3Ds Max, Maya, Solidworks
+
 
 
 
@@ -76,6 +79,7 @@ Software:
 - 3 A's in Physics, Mathematics, and English
 - 96% rate in national Physics Exam
 - Cum Laude Diploma, Physics school “Photon”
+
 
 
 
