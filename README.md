@@ -110,5 +110,5 @@ My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 da
 
 - Blogging, the fairly newbie - [dev-blog](https://medium.com/@klpdjolanta) and an oldie - [product design blog](http://jolantasketch.blogspot.co.uk/)
 
-|[Back to top](#jolanta-jas) |
+|[Back to the Top](#jolanta-jas) |
 |:--------------------------:|
