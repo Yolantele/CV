@@ -1,14 +1,12 @@
 ## Jolanta Jas
 
-I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs.
-Please find projects I was involved in most recently :
+I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find development projects I was involved in most recently:
+
 - Foodeals app - https://github.com/Yolantele/foodie
 - AirBnB clone - https://github.com/Yolantele/MakersBnB
 - Database agnostic Visualiser app - https://github.com/Yolantele/Database-visualization
 
-Thus far I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. The challenge was to bring a design solution that would satisfy tight cost per unit, mass-production manufacturing limitations, extensive safety regulation limitations and high-performing concept execution. I attribute any of the past successes to my working practices, a level of focused commitment and enthusiasm.
-
-I look forward to joining a team where I could continue learning and practice good craftsmanship.
+Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills, please see the next section. 
 
 
 
@@ -17,13 +15,13 @@ I look forward to joining a team where I could continue learning and practice go
 
 #### Creative Problem-solving
 
-I enjoy problem-solving and see it as a creative process. In the past, I relied on these skills for developing product prototypes that had to satisfy many constraints: extensive safety regulations, low-cost per unit, restricted manufacturing methods and tight deadlines.  I started developing this skill since the early days at young physicists school,  where I learned the value of pproaching large problems in small-size steps.
+I enjoy problem-solving and see it as a creative process. In the past, I relied on these skills for developing promotional products that had to satisfy many constraints: extensive safety regulations, low-cost per unit, restricted manufacturing methods and tight deadlines.  I started developing problem-solving techniques since the early days at young physicists school,  where I learned the value of approaching large problems in small-sized steps.
 
 
 ####  Sound Communication
 
 I place huge value on good quality communication in whichever context it appears: coding or collaborating with colleagues.
-An example inside the context of team-work, would be the time I had to mentor a junior product designer with anxiety disorder. It placed huge reliance on my communication skills. I had to be clear yet considerate of triggering anxiety attacks, that she occasionally experienced at work. In the end her most proud work was produced on the two McDonald’s Happy Meal programs we worked on together under my lead. I hope to continue to bring high-value with this skill.
+An example inside the context of team-work, would be the time I mentored a junior product designer with anxiety disorder. It placed huge reliance on my communication skills: I had to be clear yet considerate of triggering anxiety attacks, that she occasionally experienced at work. In the end her most proud work was produced on the two McDonald’s Happy Meal programs we worked on together under my lead. I hope to continue to bring high-value with this skill.
 
 
 #### High-performance Attitude
@@ -54,8 +52,8 @@ Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 #### Software Developer Bootcamp: Makers Academy, 2017 - 2018
 
 - Passionate for writing good quality code and continuously learning new ways to achieve that
-- Fast learner on the intensive development boot-camp
-- Always keen to work well in both Pair-programming and group projects
+- Fast learner on the intensive development boot-camp program
+- Always keen to work well in both Pair-programming and group projects or independently.
 
 OOP, TDD, MVC
 
@@ -84,4 +82,4 @@ Node JS with React, Jasmine
 
 - Long distance hiking. My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
 - Practicing and Instructing Vinyasa Yoga Classes
-- BUJO - Analog Bullet Journaling
+- BUJO - Analog Bullet Journaling,  I love Mind-mapping!
