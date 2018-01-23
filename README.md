@@ -1,15 +1,15 @@
 # Jolanta Jas
 
 
-|[Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies) |
-|:----------------:|:---------------------------------------------------:|:-----------------------:|:-------------------:|
+|[Skills](#skills)|[Professional Experience](#professional-experience)|[Education](#education)|[Hobbies](#hobbies)|[GitHub Profile](https://github.com/Yolantele) |
+|:---------------:|:-------------------------------------------------:|:---------------------:|:-----------------:|:---------------------------------------------:|
 
 
 
 I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well designed code and programs. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find development projects I was involved in most recently:
 
 
-[fooDeals app](https://github.com/Yolantele/foodie) 
+[fooDeals app](https://github.com/Yolantele/foodie)
 
 
 [Database Visualiser app](https://github.com/Yolantele/Database-visualization)
@@ -18,7 +18,7 @@ I am in a continuous process of learning the best coding and development practic
 [AirBnB Clone](https://github.com/Yolantele/MakersBnB)
 
 
-Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section. 
+Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section.
 
 
 
@@ -54,15 +54,15 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 - Developing product through concept, design and prototype development statges
 - Liaising with engineers, Q&A teams and client services to incorporating feedback into the products
 - Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
-- Meeting with and presenting to clients and licensors. 
+- Meeting with and presenting to clients and licensors.
 
 
-Software: 
+Software:
 
 2D
 - Photoshop, Illustrator
 
-3D 
+3D
 - 3Ds Max, Maya, Solidworks
 
 
@@ -101,7 +101,7 @@ Software:
 
 ## Hobbies
 
-- Long distance hiking. 
+- Long distance hiking.
 My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
 
 - Practicing and Instructing Vinyasa Yoga Classes
@@ -110,5 +110,5 @@ My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 da
 
 - Blogging, the fairly newbie - [dev-blog](https://medium.com/@klpdjolanta) and an oldie - [product design blog](http://jolantasketch.blogspot.co.uk/)
 
-|[Back to the Top](#jolanta-jas) |
-|:--------------------------:|
+|[Back to the Top](#jolanta-jas) | [Linkedin](https://www.linkedin.com/in/jolanta-jas-94850824/) |
+|:------------------------------:|:-------------------------------------------------------------:|
