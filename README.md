@@ -1,8 +1,8 @@
 # Jolanta Jas
 
 
-|[Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies) |
-|:----------------:|:---------------------------------------------------:|:-----------------------:|:-------------------:|
+|[Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies) | [Hobbies](#hobbies) |[Github Profile](https://github.com/Yolantele)|
+|:----------------:|:---------------------------------------------------:|:-----------------------:|:-------------------:|:-------------------:|
 
 
 
