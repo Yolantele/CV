@@ -17,7 +17,7 @@ I am a recent graduate from [Makers Academy](http://www.makersacademy.com/), a 1
 
 [AirBnB Clone](https://github.com/Yolantele/MakersBnB)
 
-I also have a (fairly) newbie [dev-blog on medium](https://medium.com/@klpdjolanta).
+I also have a (fairly) newbie [dev-blog](https://medium.com/@klpdjolanta) on Medium.
 
 Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section.
 
