@@ -6,7 +6,7 @@
 
 
 
-I am a recent graduate from [Makers Academy](http://www.makersacademy.com/), a 16 week coding bootcamp. I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well crafted code. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find recent projects I was involved in and the (fairly) newbie [dev-blog on medium](https://medium.com/@klpdjolanta) :
+I am a recent graduate from [Makers Academy](http://www.makersacademy.com/), a 16 week coding bootcamp. I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well crafted code. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find the most recent projects I was involved:
 
 
 [fooDeals app](https://github.com/Yolantele/foodie)
@@ -17,6 +17,7 @@ I am a recent graduate from [Makers Academy](http://www.makersacademy.com/), a 1
 
 [AirBnB Clone](https://github.com/Yolantele/MakersBnB)
 
+I also have a (fairly) newbie [dev-blog on medium](https://medium.com/@klpdjolanta).
 
 Prior to Makers Academy I had 5 years of experience within product design (non-digital) and have been privileged to work on and lead some of the most successful global programs for the largest toy distributor in the world - McDonalds, within the tightly knit team. I attribute my past successes to some key skills outlined in the next section.
 
