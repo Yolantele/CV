@@ -58,8 +58,8 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 - Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
 
 Software:
-2D: Photoshop, Illustrator
-3D: 3Ds Max, Maya, Solidworks
+- 2D: Photoshop, Illustrator
+- 3D: 3Ds Max, Maya, Solidworks
 
 
 
