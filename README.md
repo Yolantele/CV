@@ -52,8 +52,8 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 #### Product Designer, The Marketing Store Worldwide,  2012 - 2017
 
 - Taking on and leading several programs at any given time from brief to production
-- Developing product through concept, design and prototype itteration statges
-- Liaising with engineers, Q&A teams and client services to incorporating feedback into the products
+- Developing product through concept, design and prototype itteration stages
+- Liaising with engineers, Q&A teams and client services to incorporate feedback into the products
 - Meeting with and presenting to clients and licensors.
 - Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
 
