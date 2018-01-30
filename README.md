@@ -6,13 +6,13 @@
 
 
 
-I am a recent graduate from [Makers Academy](http://www.makersacademy.com/), a 16 week coding bootcamp. I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well crafted code. I look forward to joining a team where I could continue learning and practice good craftsmanship. Please find the most recent projects I was involved:
+I am a recent graduate from [Makers Academy](http://www.makersacademy.com/), a 16 week coding bootcamp, in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well crafted programs. I look forward to joining a team where I could continue learning and practicing good craftsmanship. Please find the most recent projects I was involved:
 
 
 [fooDeals app](https://github.com/Yolantele/foodie)
 
 
-[Database Visualiser app](https://github.com/Yolantele/Database-visualization)
+[Database Agnostic Visualiser app](https://github.com/Yolantele/Database-visualization)
 
 
 [AirBnB Clone](https://github.com/Yolantele/MakersBnB)
@@ -51,20 +51,15 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 #### Product Designer, The Marketing Store Worldwide,  2012 - 2017
 
-- Taking the design lead on several programs at any given time from brief to production
-- Developing product through concept, design and prototype development statges
+- Taking on and leading several programs at any given time from brief to production
+- Developing product through concept, design and prototype itteration statges
 - Liaising with engineers, Q&A teams and client services to incorporating feedback into the products
-- Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
 - Meeting with and presenting to clients and licensors.
-
+- Clients include McDonalds's, Carlsberg, Nestle, Hasbro and others
 
 Software:
-
-2D
-- Photoshop, Illustrator
-
-3D
-- 3Ds Max, Maya, Solidworks
+2D: Photoshop, Illustrator
+3D: 3Ds Max, Maya, Solidworks
 
 
 
@@ -102,8 +97,7 @@ Software:
 
 ## Hobbies
 
-- Long distance hiking.
-My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
+- Long distance hiking. My last adventure was North Spain hike - Camino de Santiago - 360 miles in 15 days.   
 
 - Practicing and Instructing Vinyasa Yoga Classes
 
