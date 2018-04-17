@@ -60,6 +60,11 @@ I find that a healthy amount of enthusiasm and joy has only served me thus far i
 
 ## Professional Experience
 
+#### Developer Engineer, Spoke Technologies, 2018
+- Greenfield projects, developing proof-of-concept prototypes
+- Defining restful APIs using Python Django-rest framework
+- Integrating popular and well known external APIs, such as Spotify, Monzo and Saltedge
+- Front-end in React for MVP product buyer presentations  
 
 #### Product Designer, The Marketing Store Worldwide,  2012 - 2017
 
