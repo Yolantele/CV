@@ -23,11 +23,11 @@ I am a developer engineer at Spoke techologies with prior 5 year practice in pro
 
 #### Tech Stack
 
-1. Concepts: 
+Concepts: 
 
 Object-oriented programming, Test-driven development
 
-2. Tech: 
+Tech: 
 
 Python, JavaScript, Node 
 React 
