@@ -6,7 +6,7 @@
 
 
 
-I am a developer engineer at Spoke techologies with prior 5 year practice in product development and a graduate from [Makers Academy](http://www.makersacademy.com/), a 16 week coding bootcamp. I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well crafted product. Please find some non-commercial practice projects I was involved:
+I am a developer engineer at Spoke techologies with prior 5 year practice in product development and a graduate from Makers Academy. I am in a continuous process of learning the best coding and development practices to produce sustainable, adaptable, well crafted product. Please find some non-commercial practice projects I was involved:
 
 
 [fooDeals app](https://github.com/Yolantele/foodie)
