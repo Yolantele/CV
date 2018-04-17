@@ -25,19 +25,20 @@ I am a developer engineer at Spoke techologies with prior 5 year practice in pro
 
 Concepts: 
 
-Object-oriented programming, Test-driven development
+- Object-oriented programming, Test-driven development
 
 Tech: 
 
-Python, JavaScript, Node 
-React 
-HTML, CSS, 
-Django, Django-rest
-MongoDB, postgress SQL,
+- Python, JavaScript, Node 
+- React 
+- HTML, CSS, 
+- Django, Django-rest
+- MongoDB, postgress SQL,
+- Basics of Kubernetes and Docker
 
 Testing: 
 
-RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
+- RSpec, Jasmine, Mocha, Chai, Capybara, Selenium, WebdriverIO
 
 #### Creative Problem-solving
 
